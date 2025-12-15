@@ -1,15 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
   "name": "Gas.zip FAQ & Documentation",
-  "colors": {
-    "primary": "#3A6EA5",
-    "light": "#3A6EA5",
-    "dark": "#3A6EA5"
-    "background": {
-      "light": "#3A6EA5",
-      "dark": "#3A6EA5"
-    }
+  "fonts": {
+  "family": "JetBrains Mono"
   },
   "favicon": "/favicon.svg",
   "navigation": {
